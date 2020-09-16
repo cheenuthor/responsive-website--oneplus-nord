@@ -1,0 +1,103 @@
+// ?-----------------------------------------Colors----------------------------------
+$blackColor: #000;
+$whiteColor: #fff;
+$Accentcolor: #ff0000;
+// ?Fonts
+$fontsize: 18px;
+// ?-----------------------------------------font-section--------------------------------
+
+//     font-family: 'Nunito', sans-serif;
+
+// font-family: 'Open Sans', sans-serif;
+
+// font-family: 'Roboto', sans-serif;
+
+#F-OP-l-B {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: $fontsize;
+  color: $blackColor;
+}
+#F-OP-R-B {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: $fontsize +4;
+  color: $blackColor;
+}
+#F-OP-SM-B {
+  font-family: "Open Sans", sans-serif;
+  font-size: $fontsize;
+  font-weight: 600 ;
+  color: $blackColor;
+}
+#F-R-R-W {
+  font-family: Roboto, sans-serif;
+  font-size: $fontsize;
+  font-weight: 400;
+  color: $whiteColor;
+}
+#F-OP-l-W {
+  font-family: "Open Sans", sans-serif;
+  font-size: $fontsize;
+  font-weight: 300;
+  color: $whiteColor;
+}
+#F-OP-SM_W {
+  font-family: "Open Sans", sans-serif;
+  font-size: $fontsize;
+  font-weight: 600;
+  color: white;
+}
+#F-N-R-R {
+  font-family: "Nunito", sans-serif;
+  font-size: $fontsize;
+  font-weight: 400;
+  color: $Accentcolor;
+}
+.F-OP-R-20 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: $fontsize;
+  color: $blackColor;
+}
+// ?-------------------------------------padding --------------------------
+.Pad-top {
+  margin-top: 70px;
+}
+.pad-bottom {
+  margin-bottom: 50px;
+}
+.mypadding {
+  padding: 3%;
+}
+// ?---------------------------------Image section---------------------
+.imgBox {
+  width: 390px;
+  height: 390px;
+  background: linear-gradient(
+      0deg,
+      rgba(255, 172, 172, 0.04),
+      rgba(255, 172, 172, 0.04)
+    ),
+    url();
+  box-shadow: inset 4px 4px 4px 3px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(4px);
+  border-radius: 29px;
+}
+.oneplusImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+// ?---------------------------------Body-------------------------
+Body {
+  background-color: #fff5f5;
+}
+html {
+  scroll-behavior: smooth;
+}
+// ?-------------------------------NavBar-----------------------
+.NavBar-shadow {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}

@@ -1,0 +1,99 @@
+#F-OP-l-B {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #000;
+}
+
+#F-OP-R-B {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  color: #000;
+}
+
+#F-OP-SM-B {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: #000;
+}
+
+#F-R-R-W {
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+}
+
+#F-OP-l-W {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: #fff;
+}
+
+#F-OP-SM_W {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+}
+
+#F-N-R-R {
+  font-family: "Nunito", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #ff0000;
+}
+
+.F-OP-R-20 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #000;
+}
+
+.Pad-top {
+  margin-top: 70px;
+}
+
+.pad-bottom {
+  margin-bottom: 50px;
+}
+
+.mypadding {
+  padding: 3%;
+}
+
+.imgBox {
+  width: 390px;
+  height: 390px;
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 172, 172, 0.04)), to(rgba(255, 172, 172, 0.04))), url();
+  background: linear-gradient(0deg, rgba(255, 172, 172, 0.04), rgba(255, 172, 172, 0.04)), url();
+  -webkit-box-shadow: inset 4px 4px 4px 3px rgba(0, 0, 0, 0.25);
+          box-shadow: inset 4px 4px 4px 3px rgba(0, 0, 0, 0.25);
+  -webkit-backdrop-filter: blur(4px);
+          backdrop-filter: blur(4px);
+  border-radius: 29px;
+}
+
+.oneplusImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+Body {
+  background-color: #fff5f5;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.NavBar-shadow {
+  -webkit-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+          filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+/*# sourceMappingURL=style.css.map */
