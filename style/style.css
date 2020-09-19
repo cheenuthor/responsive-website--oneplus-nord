@@ -1,54 +1,52 @@
 #F-OP-l-B {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans';
   font-weight: 300;
   font-size: 18px;
   color: #000;
 }
 
-#F-OP-R-B {
-  font-family: 'Open Sans', sans-serif;
+#F-OP-R-B {font-family: 'Open Sans';
   font-weight: 400;
   font-size: 22px;
   color: #000;
 }
 
-#F-OP-SM-B {
-  font-family: 'Open Sans', sans-serif;
+#F-OP-SM-B {font-family: 'Open Sans';
   font-size: 18px;
   font-weight: 600;
   color: #000;
 }
 
 #F-R-R-W {
-  font-family: Roboto, sans-serif;
+font-family: 'Open Sans';
   font-size: 18px;
   font-weight: 400;
   color: #fff;
 }
 
 #F-OP-l-W {
-  font-family: 'Open Sans', sans-serif;
+ font-family: 'Open Sans';
   font-size: 18px;
   font-weight: 300;
   color: #fff;
 }
 
 #F-OP-SM_W {
-  font-family:'Open Sans', sans-serif;
+  font-family: 'Open Sans';
   font-size: 18px;
   font-weight: 600;
   color: white;
 }
 
 #F-N-R-R {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Nunito';
   font-size: 18px;
   font-weight: 400;
   color: #ff0000;
 }
 
 .F-OP-R-20 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans';
   font-weight: 400;
   font-size: 18px;
   color: #000;
